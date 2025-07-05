@@ -20,22 +20,22 @@ The dataset used in this project is the "Red Wine Quality" dataset, found in the
 ### Regression Modeling
 
 1. Implemented two regression algorithms for wine quality prediction
-2. Trained and evaluated the models. This phase carries 6 point
+2. Trained and evaluated the models
 
 ### Model Evaluation
 
 1. Included results for three metrics (e.g., RMSE, MAE, R-squared) for each model
-2. Compared the results to identify the better-performing model. This phase carries 3 points
+2. Compared the results to identify the better-performing model
 
 ### Feature Importance Analysis
 
-1. Calculated and visualized feature importances for at least one of the regression models. This phase carries 3 points
+1. Calculated and visualized feature importances for at least one of the regression models
 
 ### Conclusion
 
 1. Summarize key insights obtained from the analysis
 2. Include one limitation of the analysis
-3. Comment on future work that could be done to improve the analysis. This phase carries 2 points
+3. Comment on future work that could be done to improve the analysis
 
 ## Requirements
 
